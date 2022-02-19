@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.primary-heading {
+  margin: 30px;
+}
+.input-text {
+  border-radius: 20px;
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+}
+.input-text:focus {
+  outline: none;
+}
+.todo-button {
+  padding: 12px;
+  border-radius: 25px;
+  font-size: 15px;
+  margin-left: 10px;
+  border: none;
+}
+.todo {
+  padding: 10px;
+  border-radius: 50px;
+  background-color: white;
+  display: flex;
+  margin: 20px;
+  align-items: center;
+  color: black;
+  width: 80%;
+}
+.todo-text {
+  flex-grow: 1;
+  text-align: left;
+}
+.delete-button {
+  outline: none;
+  margin: 10px;
+  background-color: rgba(255, 0, 0, 0.705);
+  color: white;
+  border-radius: 10px;
+  border: none;
+}
