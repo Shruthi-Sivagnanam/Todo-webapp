@@ -1,7 +1,9 @@
 # Todo-webapp
 
 ## About
-A todo react web app with redux.
+<p>A todo react web app with redux.</p>
+<p>Preview the website: https://todoswebapp.herokuapp.com/</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82823305/154807612-28046d77-2c39-4631-82a7-79b0ccf31628.png"  alt="homepage" width="50%" height="50%"/>
  </p>
